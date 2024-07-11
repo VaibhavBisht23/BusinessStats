@@ -1,0 +1,19 @@
+,a collar manufacturer is considering the prodcution of a new style of collar to attract young ones the following stats of neck circumference are available based upon the measurement of typical group of college students ,,,,,Column1,,,,,
+,,,,,,,,,,Column2,
+mid value,No of students,,,,,Mean,14,,,,
+12,2,,,,,Standard Error,0.456435465,,,Mean,27.77777778
+12.5,16,,,,,Median,14,,,Standard Error,8.892533975
+13,36,,,,,Mode,#N/A,,,Median,18
+13.5,60,,,,,Standard Deviation,1.369306394,,,Mode,2
+14,76,,,,,Sample Variance,1.875,,,Standard Deviation,26.67760192
+14.5,37,,,,,Kurtosis,-1.2,,,Sample Variance,711.6944444
+15,18,,,,,Skewness,0,,,Kurtosis,-0.454157453
+15.5,3,,,,,Range,4,,,Skewness,0.803235353
+16,2,,,,,Minimum,12,,,Range,74
+,250,,,,,Maximum,16,,,Minimum,2
+,,,,,,Sum,126,,,Maximum,76
+,,,,,,Count,9,,,Sum,250
+,,,,,,Largest(1),16,,,Count,9
+,"now compute std deviation, average, maximum, minimum largest, smallest size of the collar he should make in order to meet the needs of practicality of all the customers bearing in mind that the collars are worn  and average of  hallf inch longer than the neck size  ",,,,,Smallest(1),12,,,Largest(1),76
+,,,,,,Confidence Level(95.0%),1.052542069,,,Smallest(1),2
+,,,,,,,,,,Confidence Level(95.0%),20.50622012
